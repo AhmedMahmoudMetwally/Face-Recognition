@@ -4,6 +4,10 @@ image you can tell the subject id. Our database of subject is very simple. It ha
 subjects. Below we will show the needed steps to achieve the goal of the 
 assignment. 
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+
+
+
 **1. Download the Dataset and Understand the Format**
 *a. ORL dataset is available at the following link.* 
 https://www.kaggle.com/kasikrit/att-database-of-faces/ 
